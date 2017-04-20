@@ -1,0 +1,77 @@
+[
+  {
+    "timestamp": "1486313493",
+    "title": "Fermeture annoncée de Kitsu.eu",
+    "content": "En raison des possibles orientations futures de Web4all, de mon manque de temps et de l'inutilisation des apps, Kitsu.eu fermera ses portes prochainement. Merci d'avoir suivi cette aventure qui m'a permis d'apprendre de nouvelles choses sur l'hébergement web !"
+  },
+  {
+    "timestamp": "1482928553",
+    "title": "PrivateBin",
+    "content": "En remplacement de Zerobin/Filebin, Kitsu.eu propose désormais PrivateBin !"
+  },
+  {
+    "timestamp": "1474712793",
+    "title": "Fin de OwnCloud; Migration réussie",
+    "content": "Conformément à mon annonce précédente, le service OwnCloud a été terminé à l'occasion de la migration de Kitsu.eu. Je dis donc bye-bye à OVH et suis joie d'annoncer que Kitsu.eu est maintenant hébergé chez Web4all.fr, association à but non lucratif :)"
+  },
+  {
+    "timestamp": "1471077042",
+    "title": "Cert TLS, OwnCloud",
+    "content": "Le certificat Let's Encrypt a été renouvellé, et le service OwnCloud est à présent déprécié et sera stoppé lors de la prochaine migration de Kitsu.eu. En remplacement, je peux recommander Zaclys.com !"
+  },
+  {
+    "timestamp": "1456745995",
+    "title": "Certificat TLS renouvellé, et warrant canary",
+    "content": "Le certificat Let's Encrypt a été renouvellé, et la page d'accueil dispose maintenant d'un « warrant canary »"
+  },
+  {
+    "timestamp": "1449311448",
+    "title": "Certificat TLS Let's Encrypt !",
+    "content": "Après une opération déconcertante de facilité, Kitsu.eu utilise maintenant un certificat TLS signé Let's Encrypt tout beau tout propre ^^"
+  },
+  {
+    "timestamp": "1438286876",
+    "title": "Certificat TLS renouvellé",
+    "content": "Comme prévu, le certificat TLS de Kitsu.eu a été renouvellé. Il est signé par Gandi et est valide jusqu'en août 2016, après quoi il sera sans doute remplacé par Let's Encrypt :)"
+  },
+  {
+    "timestamp": "1432734326",
+    "title": "Raisponciv",
+    "content": "Kitsu.eu fait peau neuve pour l'été, responsive design basé sur Bootstrap sans scripts externes bien sûr !"
+  },
+  {
+    "timestamp": "1429617536",
+    "title": "Comme sur un nuage",
+    "content": "OwnCloud dépoussiéré, testé, et complété avec nombre de fonctions utiles ! Un vrai couteau suisse !"
+  },
+  {
+    "timestamp": "1420556144",
+    "title": "Répertoire des blogs publics",
+    "content": "Outre quelques améliorations HTML/CSS sur le portail, j'ai aussi ajouté un répertoire des blogs publics, pour celles et ceux qui ont un Shaarli, BlogoText ou Respawn :)"
+  },
+  {
+    "timestamp": "1418493411",
+    "title": "Formulaire de contact chiffré",
+    "content": "J'ai déployé une fonction de chiffrement GPG pour le formulaire de contact basé sur le code de My Personnal Data :) Comme ça il n'y a que moi qui peut lire les mails !"
+  },
+  {
+    "timestamp": "1415986558",
+    "title": "Nouveau certificat en SHA2",
+    "content": "Kitsu tourne à présent avec un certificat SHA256 à clé 4096 bits :) Évidemment toujours à courbes elliptiques et en TLS 1.x seul. SSleuth lui donne 8.8/10 ce qui est mieux que Google :P"
+  },
+  {
+    "timestamp": "1412957236",
+    "title": "Ajout d'application: BlogoText !",
+    "content": "Maintenant, Kitsu/NekoVH peut proposer BlogoText aussi :)"
+  },
+  {
+    "timestamp": "1412950640",
+    "title": "Domaine alternatif: nek.ovh",
+    "content": "Un problème avec kitsu.eu ? Pas de panique ! Vous pouvez utiliser nek.ovh à la place. L'arborescence est identique."
+  },
+  {
+    "timestamp": "1411074653",
+    "title": "Ajout flux ATOM",
+    "content": "Ajout utile: un flux ATOM pour les news :)"
+  }
+]
